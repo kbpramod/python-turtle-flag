@@ -92,3 +92,5 @@ t.goto(-200,125)
 t.right(180)
 t.pendown()
 t.forward(800)                    
+
+t.done()
