@@ -7,4 +7,5 @@ The repository conatain flags of\
 3.Europian union\
 4.Karnataka(state of India)\
 5.Russia\
-6.Japan
+6.Japan\
+7.Isreal
