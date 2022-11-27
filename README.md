@@ -6,4 +6,5 @@ The repository conatain flags of\
 2.USA\
 3.Europian union\
 4.Karnataka(state of India)\
-5.Russia
+5.Russia\
+6.Japan
